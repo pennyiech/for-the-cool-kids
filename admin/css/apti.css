@@ -1,7 +1,7 @@
 
 
 p.apti-text {
-	font-style: italic; 
+	font-style: normal; 
 	padding: 10px 10px 10px 15px !important;
 	font-size: 12px;
 	border-bottom: 1px solid #e5e5e5;
@@ -16,7 +16,7 @@ p.apti-text {
 
 #apti-above-title,
 #apti-below-title {
-	font-style: italic !important;
+	font-style: normal !important;
 	font-size: 13px;
 	padding: 10px 10px 10px 15px;
 	border-top: 1px solid #e5e5e5;
